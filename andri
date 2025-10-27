@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Projecto</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+<h1>Inteligencia artificial</h1>
+
+<h2>¿Què es la inteligencia artificial?</h2>
+
+<p class="descripcion">La inteligencia artificial es el futuro de la busqueda y tareas autonomas y repetitivas</p>
+
+<img src="IA.1.jpeg" style="display:block; margin-left:100px; width:400px;">
+
+
+    
+        <h3>Tipos de inteligencia artificial</h3>
+
+        <ol>
+            <li>Inteligencia artificial estrecha (IAE):Diseñada para realizar tareas específicas,como el reconocimiento facial o los asistentes virtuales.</li>
+            <li>Inteligencia artificial general (IAG):Una forma hipotética de IA que puede realizar cualquier tarea intelectual que un ser humano pueda hacer.</li>
+            <li>Superinteligencia artificial:Una forma avanzada de IA que supera la inteligencia humana en todos los aspectos.</li>
+        </ol>
+
+        <img src="TIPOS DE IA.jpg" style="display:block; margin-left:100px; width:400px;">
+    
+
+        <h2>Beneficios de la inteligencia altificial</h2>
+        <ol>
+            <li>Automatizaciòn de tareas repetitivas:La Ia puede encargarse de tareas monònotonas,permitiendo a lo seres humanoso centrarse en actividades màs creativas y complejas.</li>        
+             <li>mejora de la eficiencia:Los sistemas de Ia pueden prosesar grandes cantidades de datos ràpidamete</li>          
+                <li>avances en la medicina:la ia se utiliza para el dianostico precoz de enfermedades,el desarrollo de nuevos tratamientos y la personalizaciòn de la atencion sanitaria.</li>
+               <li>innovaciòn en diversos sectores:La ia impulsa la innovacion en campos como la automatizacion industrial,el trabajo agricola y la logistica.</li>
+        </ol>
+
+      <img src="IA.2.jpeg" style="display:block; margin-left:100px; width:400px;">
+
+        
+<h2>Características de la Inteligencia Artificial</h2>
+<ul>
+    <li>Capacidad de aprendizaje: Puede aprender de datos y experiencias previas</li>
+    <li>Procesamiento de lenguaje natural: Puede entender y procesar el lenguaje humano</li>
+    <li>Reconocimiento de patrones: Identifica patrones en grandes conjuntos de datos</li>
+    <li>Adaptabilidad: Se adapta a nuevas situaciones y entornos</li>
+    <li>Resolución de problemas: Encuentra soluciones óptimas a problemas complejos</li>
+    <li>Toma de decisiones: Puede tomar decisiones basadas en datos analizados</li>
+</ul>
+
+
+
+     <h5>Fuentes</h5>
+     <p><a href="https://es.wikipedia.org/wiki/Inteligencia_artificial  ">Wikipedia</a></p>
+     
+        <p><a href="https://www.youtube.com/watch?v=gSY9cqYmecM&list=PLBis6p-mSlwg-haLS0GU6jTTkbTaVDF7X&index=3">YouTube</a></p>
+      
+        <p>Hecho por andri #19 </p>
+
+</body>
+</html>
